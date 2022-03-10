@@ -11,5 +11,8 @@
     "heroku"
   ],
   "author": "gururaj",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "websocket": "1.0.x"
+	},
 }
